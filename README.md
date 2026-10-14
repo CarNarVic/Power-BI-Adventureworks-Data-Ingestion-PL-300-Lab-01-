@@ -14,7 +14,7 @@ The primary goal was to establish a local relational database environment using 
 - **Power BI Desktop** (Power Query)
 - **SQL Server 2025 Developer Edition**
 - **SQL Server Management Studio (SSMS)**
-- **AdventureWorksDW2020 Database**
+- **AdventureWorksDW2020 Database** (Based on official Microsoft PL-300 Labs)
 
 ---
 
